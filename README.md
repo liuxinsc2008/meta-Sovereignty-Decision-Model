@@ -1,4 +1,0 @@
-# meta-Sovereignty-Decision-Model
-解构控制、推拉与精神内耗。一个基于主权裁决与四维坐标 (X,Y,Z,W) 的人类动机元心理学模型。带你从(10,10,10,10)走向(0,0,0,0)。
-
-https://github.com/liuxinsc2008/meta-Sovereignty-Decision-Model/blob/main/00_README.md
