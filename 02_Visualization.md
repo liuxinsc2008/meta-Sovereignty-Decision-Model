@@ -51,12 +51,11 @@ ax.set_zlabel('Z (需求压抑值)')
 
 plt.title("Human Dynamics 4D: Sovereign State Visualization")
 plt.show()
-···
+```
 ---
 
 ### 4. `03_Applications.md` (应用与解构库)
 
-```markdown
 # 应用与解构：从原生家庭到AI伦理
 
 ## 1. 解构原生家庭的“恶龙” (代际传递)
